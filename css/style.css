@@ -1,0 +1,32 @@
+.logo{
+    display: block;
+    margin: auto;
+    width: 50px;
+    height: 50px;
+}
+
+/* body{
+    background-image: linear-gradient(rgb(92,100,221),purple);
+} */
+.container{
+    max-width: 955px;
+    background-color: red;
+    margin: auto;
+    height: 60vh;
+}
+.message{
+    background-color: grey;
+    width: 24%;
+    padding: 10px;
+    margin: 17px 12px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.left{
+    float: left;
+    clear: both;
+}
+.right{
+    float: right;
+    clear: both;
+}
